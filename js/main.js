@@ -5,6 +5,7 @@ import { setUserFormSubmit } from './slider.js';
 import './api.js';
 import {getData} from './api.js';
 import { closeUserModal } from './form.js';
+import './avatar.js';
 
 const PHOTOS_COUNT = 25;
 
